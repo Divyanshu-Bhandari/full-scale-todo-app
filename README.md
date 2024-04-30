@@ -1,5 +1,6 @@
 # full scale todo app
-you can add todo and manage your task
+Manage your tasks effortlessly with our Todo App. Whether it's adding new tasks, marking them as done, or deleting them, our app provides a seamless experience to help you stay organized and productive.
+
 ![image](https://github.com/Divyanshu-Bhandari/full-scale-todo-app/assets/145904310/85b8847a-02ed-4f29-9919-bf48148b0c3b)
 
 # Features
